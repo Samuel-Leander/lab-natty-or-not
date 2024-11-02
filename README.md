@@ -1,4 +1,5 @@
 Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+
 📒 Descrição
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente da união entre o papel de um cientista de dados usando IA.
 
